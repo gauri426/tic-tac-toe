@@ -25,9 +25,7 @@ This project allows two players to play the classic Tic Tac Toe game in the brow
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Screenshot](tic-tac-toe.png.png)
-)
-
+![Tic Tac Toe Screenshot](tic-tac-toe.png)
 ---
 
 ## ▶️ How to Run the Project
