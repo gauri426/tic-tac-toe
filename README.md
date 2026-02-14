@@ -25,7 +25,8 @@ This project allows two players to play the classic Tic Tac Toe game in the brow
 
 ## 📸 Screenshot
 
-
+![Tic Tac Toe Screenshot](tic-tac-toe.png.png)
+)
 
 ---
 
@@ -45,7 +46,7 @@ tic-tac-toe/
 │── index.html
 │── style.css
 │── script.js
-│── screenshot.png
+│── tic-tac-toe.png
 │── README.md
 
 
